@@ -1,0 +1,14 @@
+{
+  "build": [
+    "build.44e3918837a4237ea93b.js",
+    "build.44e3918837a4237ea93b.js.map"
+  ],
+  "common": [
+    "common.4e87dd9c89e4ff2dd63c.js",
+    "common.4e87dd9c89e4ff2dd63c.js.map"
+  ],
+  "vendor.[chunkhash].js": [
+    "vendor.3d1a5f0183a763d8f863.js",
+    "vendor.3d1a5f0183a763d8f863.js.map"
+  ]
+}
